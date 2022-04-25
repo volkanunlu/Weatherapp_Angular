@@ -26,7 +26,11 @@
 
 * Weather Service 
 
+## WeatherApp Resimler | WeatherApp Images 
 
+
+![weatherapp sample1](https://user-images.githubusercontent.com/36553214/165176499-c4e41297-e4a3-4357-afb3-dd6d3f882a90.png)
+![weatherapp sample2](https://user-images.githubusercontent.com/36553214/165176501-d7307a1d-f707-4d73-b57b-ba5b3acb1d41.png)
 
 
 
